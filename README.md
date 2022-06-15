@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Said Rafili</h1>
 <h3 align="center">Programming enthusiast from Azerbaijan</h3>
