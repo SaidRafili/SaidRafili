@@ -10,7 +10,7 @@
 
 - 📘 I’m currently learning **Front end development**
 
-- 📗 I'm planning to learn **Linux, Kali Linux, Algorithms, Python...**
+- 📗 I'm planning to learn **Game Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
