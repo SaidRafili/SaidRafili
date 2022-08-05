@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saidrafili&label=Profile%20views&color=0e75b6&style=flat" alt="saidrafili" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saidrafili" alt="saidrafili" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/rafili_said" target="blank"><img src="https://img.shields.io/twitter/follow/rafili_said?logo=twitter&style=for-the-badge" alt="rafili_said" /></a> </p>
 
 - 🔧 I’m currently studying in [Pragmatech Education and Development Center](https://github.com/PragmatechEducation)
