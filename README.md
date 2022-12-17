@@ -7,7 +7,7 @@
 
 - 🔧 I’m currently studying in [Pragmatech Education and Development Center](https://github.com/PragmatechEducation)
 
-- 📘 I’m currently learning **Front end development**
+- 📘 I’m currently learning **Front end development** , **Back end development**
 
 - 📗 I'm planning to learn **Game development**
 
