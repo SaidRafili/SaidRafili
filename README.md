@@ -5,7 +5,7 @@
 
 - Currently learning **Full stack development**
 
-- Planning to learn **Game development, Mobile App Development, **
+- Planning to learn **Game development, Mobile App Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
