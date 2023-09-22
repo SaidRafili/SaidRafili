@@ -1,5 +1,5 @@
-<h1 align="center">I'm Said Rafili</h1>
-<h3 align="center">An Idealist Programmer from Azerbaijan</h3>
+<h1 align="center">Said Rafili</h1>
+<h3 align="center">Developer,Designer</h3>
 
 - Currently studying in [Pragmatech Education and Development Center](https://github.com/PragmatechEducation)
 
