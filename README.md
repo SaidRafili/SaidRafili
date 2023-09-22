@@ -1,4 +1,4 @@
-<h1 align="center" style="font-family:italic;">Said Rafili</h1>
+<h1 align="center">Said Rafili</h1>
 <h3 align="center">Developer,Designer</h3>
 
 - Currently studying in [Pragmatech Education and Development Center](https://github.com/PragmatechEducation)
